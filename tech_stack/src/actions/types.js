@@ -1,0 +1,1 @@
+export const SELECTED_LIBRARY = 'SELECTED_LIBRARY'
